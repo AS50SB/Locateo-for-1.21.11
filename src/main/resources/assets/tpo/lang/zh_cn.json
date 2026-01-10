@@ -1,0 +1,26 @@
+{
+  "mod.tpo.name": "TPO:RE",
+  "mod.tpo.description": "重新制作TPO模组，提供非作弊模式下的自由传送功能",
+  
+  "command.tpo.help": "TPO:RE 传送命令帮助",
+  "command.tpo.teleported": "已传送到玩家 %s",
+  "command.tpo.brought": "已将玩家 %s 传送到你这里",
+  "command.tpo.coordinates": "已传送到坐标 (%.1f, %.1f, %.1f)",
+  
+  "command.tpoconfig.reloaded": "TPO配置已重新加载",
+  "command.tpoconfig.set": "已设置 %s 为 %s",
+  "command.tpoconfig.view": "TPO当前配置",
+  "command.tpoconfig.help": "TPO配置命令帮助",
+  
+  "config.tpo.title": "TPO:RE 配置",
+  "config.tpo.enableFreeTeleport": "启用自由传送",
+  "config.tpo.enableFreeTeleport.tooltip": "允许所有玩家使用/tpo命令",
+  "config.tpo.requirePermission": "需要权限",
+  "config.tpo.requirePermission.tooltip": "是否需要特定权限才能使用命令",
+  "config.tpo.permissionLevel": "权限等级",
+  "config.tpo.permissionLevel.tooltip": "使用命令所需的最低权限等级",
+  "config.tpo.customImageUrl": "自定义图片URL",
+  "config.tpo.customImageUrl.tooltip": "要替换的图片URL",
+  "config.tpo.showTeleportParticles": "显示传送粒子效果",
+  "config.tpo.playTeleportSound": "播放传送音效"
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "locateo",
+  "version": "${version}",
+  "name": "Locateo Mod",
+  "description": "Allows using locate command without cheats",
+  "authors": ["E&B"],
+  "contact": {
+    "homepage": "https://example.com/",
+    "sources": "https://github.com/as50sb/locateo"
+  },
+  "license": "MIT",
+  "icon": "assets/locateo/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "eab.locateo.LocateoMod"
+    ],
+    "client": [
+      "eab.locateo.LocateoModClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": ">=1.21",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

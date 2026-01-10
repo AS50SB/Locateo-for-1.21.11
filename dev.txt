@@ -1,0 +1,4 @@
+jdk21
+cd /d D:\.fabric\loc
+gradlew --stop
+gradlew clean build --info
