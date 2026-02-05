@@ -1,5 +1,4 @@
-# Locateo-for-1.21.11  
-/locateo for 1.21.11 fabric   
+# Locateo-for-1.21.11
 可以在不开启作弊的情况下使用locateo命令代替locate   
 许可证：MIT  
 AI：Gemini  
@@ -7,4 +6,8 @@ AI：Gemini
 <img width="1065" height="746" alt="image" src="https://github.com/user-attachments/assets/9acccf1a-51e5-43da-9822-9dc89274e896" />   
 我的MC百科：not_have_name  
 https://center.mcmod.cn/1029383/  
-我的另一个名字（fabric.mod.json里的）：E&B
+我的另一个名字（fabric.mod.json里的）：E&B  
+官方网站：https://as50sb.github.io/lo/  
+语法：/locateo <类型> <ID>  
+MC百科：https://www.mcmod.cn/class/24338.html  
+1.20.1仓库https://github.com/AS50SB/Locateo/  
