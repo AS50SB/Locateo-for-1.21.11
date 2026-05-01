@@ -8,6 +8,6 @@ AI：Gemini
 https://center.mcmod.cn/1029383/  
 我的另一个名字（fabric.mod.json里的）：E&B  
 官方网站：https://as50sb.github.io/lo/  
-语法：/locateo <类型> <ID>  
+语法：/locateo <类型> < ID >  
 MC百科：https://www.mcmod.cn/class/24338.html  
 1.20.1仓库https://github.com/AS50SB/Locateo/  
