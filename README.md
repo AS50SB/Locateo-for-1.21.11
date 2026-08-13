@@ -1,4 +1,4 @@
-# Locateo-for-1.21.11
+# Locate Only Mod 1.21.11  
 可以在不开启作弊的情况下使用locateo命令代替locate   
 许可证：MIT  
 AI：Gemini  
@@ -11,4 +11,5 @@ https://center.mcmod.cn/1029383/
 语法：/locateo <类型> < ID >  
 MC百科：https://www.mcmod.cn/class/24338.html  
 1.20.1仓库https://github.com/AS50SB/Locateo/  
-26.1早期移植：https://github.com/TEXTDOOM/Locate-Only-Updated
+26.1早期移植：https://github.com/TEXTDOOM/Locate-Only-Updated  
+Mod全名：Locate Only
