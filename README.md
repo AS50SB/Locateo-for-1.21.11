@@ -11,3 +11,4 @@ https://center.mcmod.cn/1029383/
 语法：/locateo <类型> < ID >  
 MC百科：https://www.mcmod.cn/class/24338.html  
 1.20.1仓库https://github.com/AS50SB/Locateo/  
+26.1早期移植：https://github.com/TEXTDOOM/Locate-Only-Updated
